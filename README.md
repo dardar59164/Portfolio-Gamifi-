@@ -9,9 +9,11 @@
 <details>
   <summary>Table des matières</summary>
   <ol>
-    <li>
-      <a href="#changelogs">Changelogs</a>
-    </li>
+    <li><a href="#changelogs">Changelogs</a></li>
+    <ul>
+      <li><a href="#backlog-general">Backlogs Général</a></li>
+      <li><a href="#backlogs-sprint">Backlogs Sprint</a></li>
+    </ul>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -25,7 +27,7 @@
 <p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
 <!-- BACKLOGS -->
-## Backlog Général
+## Backlog General
 
 [Backlog Portfolio Général.xlsx](https://github.com/dardar59164/Portfolio-Gamifi-/files/10911589/Backlog.Portfolio.General.xlsx)
 
