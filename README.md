@@ -10,10 +10,10 @@
   <summary>Table des matières</summary>
   <ol>
     <li><a href="#changelogs">Changelogs</a></li>
-    <ul>
-      <li><a href="#backlog-general">Backlogs Général</a></li>
-      <li><a href="#backlogs-sprint">Backlogs Sprint</a></li>
-    </ul>
+    <li>
+      <ul><a href="#backlog-general">Backlogs Général</a></ul>
+      <ul><a href="#backlogs-sprint">Backlogs Sprint</a></ul>
+    </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
