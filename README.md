@@ -5,9 +5,7 @@
   <h3 align="center">Changelog Portfolio</h3>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE DES MATIERES -->
 <details>
   <summary>Table des matières</summary>
   <ol>
@@ -18,11 +16,18 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+<!-- CHANGELOGS -->
 ## Changelogs
 
 ### 07/03/2023
 - Création du repository
+
+<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
+
+<!-- BACKLOGS -->
+## Backlog Général
+
+[Backlog Portfolio Général.xlsx](https://github.com/dardar59164/Portfolio-Gamifi-/files/10911589/Backlog.Portfolio.General.xlsx)
 
 <p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
