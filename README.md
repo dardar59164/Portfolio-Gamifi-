@@ -42,10 +42,15 @@
 
 ## Backlogs Sprint
 
-<h2>Sprint 1</h2>
-- Finition du Responsive
-- Recherche de solutions pour les mécaniques
-- Drag and Drop 
+<ol>
+  <li>Sprint 1
+    <ul>
+      <li>Finition du Responsive</li>
+      <li>Recherche de solutions pour les mécaniques</li>
+      <li>Drag and Drop </li>
+    </ul>
+  </li>
+</ol>
 
 <p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
