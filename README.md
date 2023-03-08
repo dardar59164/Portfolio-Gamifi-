@@ -42,7 +42,7 @@
 
 # Backlogs Sprint
 
-<ol>
+<ul>
   <li>Sprint 1
     <ul>
       <li>Finition du Responsive</li>
@@ -50,7 +50,7 @@
       <li>Drag and Drop </li>
     </ul>
   </li>
-</ol>
+</ul>
 
 <p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
