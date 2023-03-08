@@ -17,9 +17,9 @@
 </details>
 
 <!-- CHANGELOGS -->
-## Changelogs
+# Changelogs
 
-### 08/03/2023
+## 08/03/2023
 <h2>Changed</h2>
 - Responsive Design
 - Cartes de présentation des jeux
@@ -27,20 +27,20 @@
 <h2>Fixed</h2>
 - Idées de différents Easter Eggs à ajouter pour la "gamification" du site
 
-### 07/03/2023
+## 07/03/2023
 <h2>Started</h2>
 - Création du repository
 
 <p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
 <!-- BACKLOGS -->
-## Backlog General
+# Backlog General
 
 [Backlog Portfolio Général.xlsx](https://github.com/dardar59164/Portfolio-Gamifi-/files/10911589/Backlog.Portfolio.General.xlsx)
 
 <p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
-## Backlogs Sprint
+# Backlogs Sprint
 
 <ol>
   <li>Sprint 1
@@ -55,7 +55,7 @@
 <p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Da Re Thomas - Thomas.dr@ludus-academie.com
 
