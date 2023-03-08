@@ -19,7 +19,16 @@
 <!-- CHANGELOGS -->
 ## Changelogs
 
+### 08/03/2023
+<h2>Changed</h2>
+- Responsive Design
+- Cartes de présentation des jeux
+
+<h2>Fixed</h2>
+- Idées de différents Easter Eggs à ajouter pour la "gamification" du site
+
 ### 07/03/2023
+<h2>Started</h2>
 - Création du repository
 
 <p align="right">(<a href="#readme-top">Retour au début</a>)</p>
@@ -28,6 +37,15 @@
 ## Backlog General
 
 [Backlog Portfolio Général.xlsx](https://github.com/dardar59164/Portfolio-Gamifi-/files/10911589/Backlog.Portfolio.General.xlsx)
+
+<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
+
+## Backlogs Sprint
+
+<h2>Sprint 1</h2>
+- Finition du Responsive
+- Recherche de solutions pour les mécaniques
+- Drag and Drop 
 
 <p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
