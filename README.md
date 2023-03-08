@@ -43,7 +43,7 @@
 # Backlogs Sprint
 
 <ul>
-  <li>Sprint 1
+  <li>Sprint 1 (08/03/2023 → 14/03/2023)
     <ul>
       <li>Finition du Responsive</li>
       <li>Recherche de solutions pour les mécaniques</li>
