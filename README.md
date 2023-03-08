@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <img id="top" src="images/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Changelog Portfolio</h3>
 </div>
@@ -31,14 +31,14 @@
 <h2>Started</h2>
 - Création du repository
 
-<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
+<p align="right">(<a href="#top">Retour au début</a>)</p>
 
 <!-- BACKLOGS -->
 # Backlog General
 
 [Backlog Portfolio Général.xlsx](https://github.com/dardar59164/Portfolio-Gamifi-/files/10911589/Backlog.Portfolio.General.xlsx)
 
-<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
+<p align="right">(<a href="#top">Retour au début</a>)</p>
 
 # Backlogs Sprint
 
@@ -52,11 +52,11 @@
   </li>
 </ul>
 
-<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
+<p align="right">(<a href="#top">Retour au début</a>)</p>
 
 <!-- CONTACT -->
 # Contact
 
 Da Re Thomas - Thomas.dr@ludus-academie.com
 
-<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
+<p align="right">(<a href="#top">Retour au début</a>)</p>
