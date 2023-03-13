@@ -19,6 +19,13 @@
 <!-- CHANGELOGS -->
 # Changelogs
 
+## 13/03/2023
+<h2>Fixed</h2>
+- Responsive Design
+
+<h2>Started</h2>
+- Solution Drag & Drop
+
 ## 08/03/2023
 <h2>Changed</h2>
 - Responsive Design
