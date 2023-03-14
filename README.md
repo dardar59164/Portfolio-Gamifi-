@@ -19,6 +19,14 @@
 <!-- CHANGELOGS -->
 # Changelogs
 
+## 14/03/2023
+<h2>Added</h2>
+- Slider présentation + vidéos
+- Lien vers le CV + Téléchargement possible
+
+<h2>Removed</h2>
+- Drag & drop
+
 ## 13/03/2023
 <h2>Fixed</h2>
 - Responsive Design
@@ -50,6 +58,14 @@
 # Backlogs Sprint
 
 <ul>
+  <li>Sprint 2 (15/03/2023 → 21/03/2023)
+    <ul>
+      <li>Intégration de contenu sur la page d'accueil</li>
+      <li>Fixer les images des sliders de présentation</li>
+      <li>Ajout des descriptif de jeux</li>
+      <li>Début de mécanique de jeu (Bonus)</li>
+    </ul>
+  </li>
   <li>Sprint 1 (08/03/2023 → 14/03/2023)
     <ul>
       <li>Finition du Responsive</li>
