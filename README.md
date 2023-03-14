@@ -21,10 +21,9 @@
 
 ## 14/03/2023
 <h2>Added</h2>
-- Slider présentation + vidéos
+- Slider présentation jeux + vidéos
 - Lien vers le CV + Téléchargement possible
-## CHANGED
-- Génération d'objet dans la méthode Update()
+
 <h2>Removed</h2>
 - Drag & drop
 
