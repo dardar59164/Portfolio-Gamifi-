@@ -19,6 +19,13 @@
 <!-- CHANGELOGS -->
 # Changelogs
 
+## 20/03/2023
+<h2>Fixed</h2>
+- Format plus attrayant pour les slides de jeu
+
+<h2>Started</h2>
+- Prototypes de jeux "Whack-A-Mole" / Tic-Tac-Toe
+
 ## 15/03/2023
 <h2>Fixed</h2>
 - Slider présentation jeux + vidéos
