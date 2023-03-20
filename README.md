@@ -20,6 +20,10 @@
 # Changelogs
 
 ## 14/03/2023
+<h2>Fixed</h2>
+- Slider présentation jeux + vidéos
+
+## 14/03/2023
 <h2>Added</h2>
 - Slider présentation jeux + vidéos
 - Lien vers le CV + Téléchargement possible
