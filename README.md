@@ -19,7 +19,7 @@
 <!-- CHANGELOGS -->
 # Changelogs
 
-## 14/03/2023
+## 15/03/2023
 <h2>Fixed</h2>
 - Slider présentation jeux + vidéos
 
