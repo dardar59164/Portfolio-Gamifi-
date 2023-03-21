@@ -71,6 +71,14 @@
 <ul>
   <li>Sprint 2 (15/03/2023 → 21/03/2023)
     <ul>
+      <li>Portfolio COMPLET (Compétences !)</li>
+      <li>Remplir les "savoir plus"</li>
+      <li>Gamification</li>
+    </ul>
+  </li>
+  
+  <li>Sprint 2 (15/03/2023 → 21/03/2023)
+    <ul>
       <li>Intégration de contenu sur la page d'accueil</li>
       <li>Fixer les images des sliders de présentation</li>
       <li>Ajout des descriptif de jeux</li>
