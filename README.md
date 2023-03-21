@@ -19,6 +19,11 @@
 <!-- CHANGELOGS -->
 # Changelogs
 
+## 21/03/2023
+<h2>Added</h2>
+- Descriptions des jeux
+- Contenu sur la page d'accueil & redirections
+
 ## 20/03/2023
 <h2>Fixed</h2>
 - Format plus attrayant pour les slides de jeu
@@ -69,7 +74,7 @@
 # Backlogs Sprint
 
 <ul>
-  <li>Sprint 2 (15/03/2023 → 21/03/2023)
+  <li>Sprint 3 (21/03/2023 → 28/03/2023)
     <ul>
       <li>Portfolio COMPLET (Compétences !)</li>
       <li>Remplir les "savoir plus"</li>
