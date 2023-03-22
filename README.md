@@ -19,6 +19,10 @@
 <!-- CHANGELOGS -->
 # Changelogs
 
+## 22/03/2023
+<h2>Fixing</h2>
+- Gamification
+
 ## 21/03/2023
 <h2>Added</h2>
 - Descriptions des jeux
