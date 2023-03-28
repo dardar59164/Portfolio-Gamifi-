@@ -21,12 +21,12 @@
 <!-- CHANGELOGS -->
 # Changelogs
 
-## 22/03/2023
+## 23/03/2023
 <h2>Deprecated</h2>
 - Gamification
 
 <h2>Added</h2>
-- Skills
+- Compétences Responsive
 
 ## 22/03/2023
 <h2>Fixing</h2>
